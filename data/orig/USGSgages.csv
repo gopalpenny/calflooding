@@ -1,0 +1,10 @@
+USGS Cal Rain Data,,Start,End,Lat,Lon,Datum,Drainage area,USGS Page,Notes
+11335000, COSUMNES R A MICHIGAN BAR CA,3/11/1983,10/1/2007,"38°30'01""","121°02'39""",NAD27,536 sq mi,http://waterdata.usgs.gov/nwis/inventory?agency_code=USGS&site_no=11335000,2007+ available as well
+11336585 ,LAGUNA C NR ELK GROVE CA,12/14/1995,9/30/2007,"38°25'24""","121°21'08""",NAD27,31.9 square miles,http://waterdata.usgs.gov/nwis/inventory?agency_code=USGS&site_no=11336585,2007+ available as well
+11446500 ,AMERICAN R A FAIR OAKS CA,,9/30/2007,"38°38'08""","121°13'36""",NAD27,"1,888 square miles",http://waterdata.usgs.gov/nwis/inventory?agency_code=USGS&site_no=11446500,pre 1995 (daily discharge) and post 2007 data available.
+11447360 ,ARCADE C NR DEL PASO HEIGHTS CA,12/9/1995,9/30/2007,"38°38'31""","121°22'54""",NAD27,31.4 square miles,http://waterdata.usgs.gov/nwis/inventory?agency_code=USGS&site_no=11447360,pre 1987 (daily discharge) and post 2007 data available. 3 more gages have been added (~2005). Directly below a dam
+11336580 ,MORRISON C NR SACRAMENTO CA,8/1/1959,7/1/2013,"38°29'55""","121°27'06""",NAD27,53.4 square miles,http://waterdata.usgs.gov/nwis/inventory?agency_code=USGS&site_no=11336580,daily data only. Instantaneous after 1997
+11447293 ,DRY C A VERNON ST BRIDGE A ROSEVILLE CA,10/30/1996,9/30/2007,"38°44'00""","121°18'03""",NAD27,80.1 square miles,http://waterdata.usgs.gov/nwis/inventory?agency_code=USGS&site_no=11447293,2007+ available as well
+11447905,SACRAMENTO R BL GEORGIANA SLOUGH CA,1/8/1993,9/30/2005,"38°14'20""","121°31'18""",NAD27,,http://waterdata.usgs.gov/nwis/inventory?agency_code=USGS&site_no=11447905,data after 2010 also exists. Other gages exist nearby but not for this flood in 1997
+11447890 ,SACRAMENTO R AB DELTA CROSS CHANNEL CA,12/22/1992,9/30/2005,"38°15'28""","121°31'02""",NAD27,,,data after 2010 also exists. Other gages exist nearby but not for this flood in 1998
+11427000 ,NF AMERICAN R A NORTH FORK DAM CA,10/1/1987,9/30/2007,"38°56'10""","121°01'22""",,342 square miles,http://waterdata.usgs.gov/nwis/inventory?agency_code=USGS&site_no=11427000,2007+ available as well

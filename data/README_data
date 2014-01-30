@@ -1,0 +1,11 @@
+# Data files for Cal Flooding Project
+
+orig/11447360_2008_2013.txt
+format/11447360_2008_2013_format.csv #headers removed and delimiter changed to csv
+Arcade Creek USGS Streamflow discharge data from 2008 through 2013
+
+orig/CIMIS131_2008_2013.csv
+Arcade Creek hourly CIMIS Rainfall data 2008 through 2013
+
+orig/CIMIS131_2010_Oct_full.csv
+Arcade Creek CIMIS hourly Rainfall and other climate data for Oct 2010
