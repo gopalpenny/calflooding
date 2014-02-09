@@ -1,0 +1,2 @@
+arcade_P_CIMIS_2008_2013_clean.py: clean up arcade creek precipitation data from CIMIS 131 station
+arcade_Q_11447360_2008_2013_clean.py: clean up arcade creek streamflow data from USGS station 11447360
